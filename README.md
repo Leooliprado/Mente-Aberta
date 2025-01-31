@@ -18,14 +18,9 @@ Ao acessar o Mente Aberta, você verá a tela inicial com um botão para atualiz
 - **Backend:** Flask (Python)
 - **Banco de Dados:** JSON
 
-## Contribua
+## Como Clonar o Repositório
 
-1. Faça um fork deste repositório.
-2. Crie uma branch para suas mudanças (`git checkout -b minha-modificacao`).
-3. Faça suas alterações.
-4. Commit e push para sua branch (`git commit -am 'Adiciona algo novo'` e `git push origin minha-modificacao`).
-5. Abra um Pull Request para contribuir com o projeto.
+Para clonar o repositório, utilize o comando:
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
+```bash
+git clone https://github.com/Leooliprado/Mente-Aberta.git
